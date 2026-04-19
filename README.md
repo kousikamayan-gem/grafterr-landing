@@ -78,8 +78,7 @@ Create a file at:
     ]
   },
   "featuresSection": {
-    "title": "More ways Grafterr can help you",
-    "titleAccent": "grow your business",
+    "title": "More ways Grafterr can help you grow your business",
     "subtitle": "An award-winning, end-to-end restaurant technology & payments platform, designed to streamline food service and automate complex venue operations.",
     "products": [
       {
@@ -171,7 +170,7 @@ npm run dev
 | Section        | Figma                                | Application   |
 |:---------------|:-------------------------------------|:-------------:|
 | Hero Section   |![alt text](image-1.png)              |![alt text](image-2.png)   |
-| Feture Section |![alt text](image-3.png)              |![alt text](image-4.png)  |
+| Feture Section |![alt text](image-3.png)              |![alt text](image-7.png)  |
 | Carousel       |![alt text](image-6.png)              |![alt text](image-5.png)   |
 
 

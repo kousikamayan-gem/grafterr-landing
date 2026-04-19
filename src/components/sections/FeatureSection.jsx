@@ -12,7 +12,7 @@ const FeatureSection = () => {
    content && <div className='featuresSection'>
         <p className='shape2'></p>
         <p className='shape1'></p>
-        <p className='title'>{content?.featuresSection?.title + content?.featuresSection?.titleAccent}</p>
+        <p className='title'>{content?.featuresSection?.title}</p>
         
         <p className='subtitle'>{content?.featuresSection?.subtitle}</p>
         <div className='headline'>
