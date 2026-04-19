@@ -4,6 +4,14 @@ This project demonstrates a **content-driven React UI** where all major sections
 
 ---
 
+## 🛠 Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* CSS (Responsive Design)
+
+---
+
 ## 🚀 Features
 
 * ✅ Initially implemented UI with **hardcoded data**
@@ -131,14 +139,6 @@ A reusable hook (`useContent`) is used to:
 * Creating **responsive layouts**
 * Writing **clean and reusable logic**
 * Managing **production vs development** differences
-
----
-
-## 🛠 Tech Stack
-
-* React.js
-* JavaScript (ES6+)
-* CSS (Responsive Design)
 
 ---
 
