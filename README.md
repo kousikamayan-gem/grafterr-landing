@@ -130,6 +130,7 @@ A reusable hook (`useContent`) is used to:
 * Implementing **custom hooks**
 * Creating **responsive layouts**
 * Writing **clean and reusable logic**
+* Managing **production vs development** differences
 
 ---
 
@@ -156,3 +157,32 @@ npm run dev
 
 ---
 
+
+## ⚙️ Deployment Details
+
+* Platform: Vercel
+* Build Command: npm run build
+* Output Directory: dist
+* CI/CD: Automatic deployment via GitHub
+
+---
+
+## Screenshot Comparison
+| Section        | Figma                                | Application   |
+|:---------------|:-------------------------------------|:-------------:|
+| Hero Section   |![alt text](image-1.png)              |![alt text](image-2.png)   |
+| Feture Section |![alt text](image-3.png)              |![alt text](image-4.png)  |
+| Carousel       |![alt text](image-6.png)              |![alt text](image-5.png)   |
+
+
+---
+
+## 🌐 Deployment
+
+Deployed using Vercel
+
+🔗 Live Demo
+
+👉 https://grafterr-landing-liard.vercel.app/
+
+---
