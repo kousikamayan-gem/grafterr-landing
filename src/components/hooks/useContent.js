@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+// import data from '../../../public/data'
 
 const useContent = () => {
 
@@ -7,7 +8,7 @@ const useContent = () => {
 
   const fetchContent = async() => {
     try {
-      const res = await fetch("../../../data/content.json");
+      const res = await fetch("/data/content.json");
       const json = await res.json();
       setContents(json)
     }

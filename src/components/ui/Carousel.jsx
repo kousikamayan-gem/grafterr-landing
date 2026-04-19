@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
-import arrow_left from "../../../data/images/Vector.png";
-import arrow_right from "../../../data/images/right.png";
+import arrow_left from "../images/Vector.png"
+import arrow_right from "../images/right.png"
 import useCarousel from "../hooks/useCarousel";
 
 const Carousel = ({ products = [] }) => {
